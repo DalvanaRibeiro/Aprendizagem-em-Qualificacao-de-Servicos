@@ -25,8 +25,6 @@ Aulas interativas com **teoria e prática**:
 ## 🎉 **Vamos Começar!** 🚀
 Estamos prontos para aprender juntos! 💪
 
-## 💬 **Contato**
-- **Email:** contato@qualificacaoservicos.com 📧
-- **WhatsApp:** [Acesse aqui!](https://linkdoparagrupo.com) 📲
 
-**Equipe de Qualificação de Serviços** 👩‍🏫👨‍🏫
+---
+## Segunda Aula: https://www.canva.com/design/DAGXltxu68A/LGHVjR8gjlbRk5BjJJczAA/view?utm_content=DAGXltxu68A&utm_campaign=designshare&utm_medium=link&utm_source=editor
