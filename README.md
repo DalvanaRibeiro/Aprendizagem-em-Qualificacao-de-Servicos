@@ -28,3 +28,4 @@ Estamos prontos para aprender juntos! 💪
 
 ---
 ## Segunda Aula: https://www.canva.com/design/DAGXltxu68A/LGHVjR8gjlbRk5BjJJczAA/view?utm_content=DAGXltxu68A&utm_campaign=designshare&utm_medium=link&utm_source=editor
+## Terceira Aula: https://www.canva.com/design/DAGXrx35uIg/8mMx9JkQJSvwXf_FP1kxxA/view?utm_content=DAGXrx35uIg&utm_campaign=designshare&utm_medium=link&utm_source=editor#45
