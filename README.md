@@ -61,7 +61,7 @@ Estamos prontos para aprender juntos! 💪
 13- Heloiza
 
 ---
-🤙👀🏬 # Tarefa: Administrando o Processo de Serviços
+ # 🤙👀🏬 Tarefa: Administrando o Processo de Serviços
 
 ## Equipe Supermercado (SUPERVIVA): Bruno, Daniel e Felipe
 
