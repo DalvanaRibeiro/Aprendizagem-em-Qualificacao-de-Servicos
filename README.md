@@ -57,3 +57,17 @@ Estamos prontos para aprender juntos! 💪
 11 - Rafaela
 
 12 - Davi
+
+13- Heloiza
+
+---
+🤙👀🏬 # Tarefa: Administrando o Processo de Serviços
+
+## Equipe Supermercado (SUPERVIVA): Bruno, Daniel e Felipe
+
+## Equipe Farmácia 1 (VIAFARMA): Luis, Davi e Heloiza
+
+## Equipe Farmácia 2 (FARMALIFE): Rafaela, Laís e Heitor
+
+## Equipe Material de Construções (BOB CONSTRUÇÕES): Rayssa, Arthur e Paulo
+ 
