@@ -31,6 +31,9 @@ Estamos prontos para aprender juntos! 💪
 ## Terceira Aula: https://www.canva.com/design/DAGXrx35uIg/8mMx9JkQJSvwXf_FP1kxxA/view?utm_content=DAGXrx35uIg&utm_campaign=designshare&utm_medium=link&utm_source=editor#45
 ## Quarta Aula: https://www.canva.com/design/DAGXx3v9Ojc/87qXu9PvYyY1OKtpQ82c-g/view?utm_content=DAGXx3v9Ojc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ## Quinta Aula: https://www.canva.com/design/DAGX3_IKRA8/fBU0zkLcfYGQo3uaHQBS_Q/view?utm_content=DAGX3_IKRA8&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
+## Exemplo de telas:
+## Sexta Aula: https://www.canva.com/design/DAGYQR3xRTg/3I5_8Vu2zPUqJQFBcovkAg/view?utm_content=DAGYQR3xRTg&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 --
 # 💻Ordem das Apresentações Virtuais 
 # PARABÉNS PESSOAL!!!! MANDARAM MUITO BEM :)
