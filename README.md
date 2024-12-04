@@ -35,7 +35,7 @@ Estamos prontos para aprender juntos! 💪
 ## Exemplo de telas:
 ## Sexta Aula: https://www.canva.com/design/DAGYQR3xRTg/3I5_8Vu2zPUqJQFBcovkAg/view?utm_content=DAGYQR3xRTg&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
-## Sétima Aula: https://www.canva.com/design/DAGYVj39ixY/8EGnmziieIU6iZJoT_rE6Q/view?utm_content=DAGYVj39ixY&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 --
 # 💻Ordem das Apresentações Virtuais 
 # PARABÉNS PESSOAL!!!! MANDARAM MUITO BEM :)
