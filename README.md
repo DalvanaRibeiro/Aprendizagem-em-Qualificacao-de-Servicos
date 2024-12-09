@@ -38,6 +38,20 @@ Estamos prontos para aprender juntos! 💪
 ## Sétima Aula (Planilhas): https://www.canva.com/design/DAGYh-Nr0D4/TtaMUOCV2NpV8gOaKR9lwA/view?utm_content=DAGYh-Nr0D4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 
+----
+# Atividade com Planilhas
+
+## Farmácia: https://docs.google.com/spreadsheets/d/1c89-Aviww-k_ue9q_HMUVN3H4rOD_Ufqm0lqr5VymPk/edit?gid=0#gid=0
+
+## Mercado: https://docs.google.com/spreadsheets/d/1wScjbK8Woiq8IGGQLF_q2XrTWrl9qCaJFCzBKnoEXKA/edit?gid=0#gid=0
+
+## Material de Construção: https://docs.google.com/spreadsheets/d/1eZcD6MVTXd3uY_bX7TwghWY_XxgQTC7eqiJ0ERb5MmA/edit?gid=0#gid=0
+
+## Loja de produtos Automotivos:
+
+----
+
+
 --
 # 💻Ordem das Apresentações Virtuais 
 # PARABÉNS PESSOAL!!!! MANDARAM MUITO BEM :)
