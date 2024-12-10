@@ -37,6 +37,16 @@ Estamos prontos para aprender juntos! 💪
 
 ## Sétima Aula (Planilhas): https://www.canva.com/design/DAGYh-Nr0D4/TtaMUOCV2NpV8gOaKR9lwA/view?utm_content=DAGYh-Nr0D4&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
+## Oitava Aula (Avaliação de interpretação):
+
+🧴 Farmácia: https://docs.google.com/document/d/1Rgib-2h48qQm4OQ2K9UqmSD2kQygkVwvaLB0ecKi-FI/edit?usp=sharing
+
+🍾 Mercado: https://docs.google.com/document/d/1QSw6UJTyo9b2b7kKMEWBKKOnUiNS0z4hKxjxXsbC9N4/edit?usp=sharing
+
+ 🔨  Loja de construções: https://docs.google.com/document/d/19pctV2hp9vKSNxIhAASSS6F1_FH1IOirmg3BWAjyx3M/edit?usp=sharing
+
+ 🚗 Loja de produtos automotivos:  https://docs.google.com/document/d/1SLm_9V_OMF6DXpNjj2vNgtULxmuna5NKSgpHHkmHZWo/edit?usp=sharing
+
 
 ----
 # Atividade com Planilhas
