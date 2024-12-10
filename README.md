@@ -47,6 +47,7 @@ Estamos prontos para aprender juntos! 💪
 
  🚗 Loja de produtos automotivos:  https://docs.google.com/document/d/1SLm_9V_OMF6DXpNjj2vNgtULxmuna5NKSgpHHkmHZWo/edit?usp=sharing
 
+ 📃 Modelos de Formulários: https://www.123formbuilder.com/pt/templates-de-formularios-gratis/galeria-pequenas-empresas/
 
 ----
 # Atividade com Planilhas
@@ -57,7 +58,7 @@ Estamos prontos para aprender juntos! 💪
 
 ## Material de Construção: https://docs.google.com/spreadsheets/d/1eZcD6MVTXd3uY_bX7TwghWY_XxgQTC7eqiJ0ERb5MmA/edit?gid=0#gid=0
 
-## Loja de produtos Automotivos:
+
 
 ----
 
