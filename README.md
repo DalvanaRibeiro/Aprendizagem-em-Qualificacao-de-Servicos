@@ -36,8 +36,8 @@ Estamos prontos para aprender juntos! 💪
 ## Sexta Aula: https://www.canva.com/design/DAGYQR3xRTg/3I5_8Vu2zPUqJQFBcovkAg/view?utm_content=DAGYQR3xRTg&utm_campaign=designshare&utm_medium=link&utm_source=editor 
 
 ## Sétima Aula (Planilhas): https://www.canva.com/design/DAGYh-Nr0D4/TtaMUOCV2NpV8gOaKR9lwA/view?utm_content=DAGYh-Nr0D4&utm_campaign=designshare&utm_medium=link&utm_source=editor
-
-## Oitava Aula (Avaliação de interpretação):
+------------
+# 📊 Oitava Aula (Avaliação de interpretação):
 
 🧴 Farmácia: https://docs.google.com/document/d/1Rgib-2h48qQm4OQ2K9UqmSD2kQygkVwvaLB0ecKi-FI/edit?usp=sharing
 
