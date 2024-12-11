@@ -64,6 +64,13 @@ Estamos prontos para aprender juntos! 💪
 
 # ❤️ Desenvolvimento Socioemocional
 
+Vídeo 1: https://www.youtube.com/watch?v=6FJRmc7Ku_8&t=4s&ab_channel=InstitutoAyrtonSenna
+
+
+Video 2: https://drive.google.com/file/d/1UkFiWg2g-BK6s-qo5qy5Y9MBMIM7t7eP/view?usp=sharing
+
+
+
 Dupla 1: https://www.revistas.usp.br/rto/article/view/62651
 
 Dupla 2: https://rbtcc.com.br/RBTCC/article/view/827
