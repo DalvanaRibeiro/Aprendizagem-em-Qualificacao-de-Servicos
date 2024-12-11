@@ -62,6 +62,19 @@ Estamos prontos para aprender juntos! 💪
 
 ----
 
+# ❤️ Desenvolvimento Socioemocional
+
+Dupla 1: https://www.revistas.usp.br/rto/article/view/62651
+
+Dupla 2: https://rbtcc.com.br/RBTCC/article/view/827
+
+Dupla 3: https://pepsic.bvsalud.org/scielo.php?pid=S1808-56872017000200004&script=sci_arttext
+
+Dupla 4: http://educa.fcc.org.br/scielo.php?pid=S1517-97022011000200009&script=sci_abstract
+
+Dupla 5: https://revistaseletronicas.pucrs.br/porescrito/article/view/45151
+
+Dupla 6: https://pepsic.bvsalud.org/scielo.php?pid=S1983-82202018000100002&script=sci_arttext
 
 --
 # 💻Ordem das Apresentações Virtuais 
