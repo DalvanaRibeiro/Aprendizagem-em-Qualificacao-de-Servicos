@@ -73,7 +73,7 @@ Video 2: https://drive.google.com/file/d/1UkFiWg2g-BK6s-qo5qy5Y9MBMIM7t7eP/view?
 
 Dupla 1: https://www.revistas.usp.br/rto/article/view/62651
 
-Dupla 2: https://rbtcc.com.br/RBTCC/article/view/827
+Dupla 2: https://www.journalmbr.com.br/index.php/jmbr/article/view/378
 
 Dupla 3: https://pepsic.bvsalud.org/scielo.php?pid=S1808-56872017000200004&script=sci_arttext
 
