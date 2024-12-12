@@ -81,7 +81,7 @@ Dupla 4: http://educa.fcc.org.br/scielo.php?pid=S1517-97022011000200009&script=s
 
 Dupla 5: https://revistaseletronicas.pucrs.br/porescrito/article/view/45151
 
-Dupla 6: https://pepsic.bvsalud.org/scielo.php?pid=S1983-82202018000100002&script=sci_arttext
+Dupla 6: https://periodicorease.pro.br/rease/article/view/3368/1318
 
 --
 # 💻Ordem das Apresentações Virtuais 
