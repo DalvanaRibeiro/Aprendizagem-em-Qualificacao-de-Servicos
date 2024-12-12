@@ -64,6 +64,9 @@ Estamos prontos para aprender juntos! 💪
 
 # ❤️ Desenvolvimento Socioemocional
 ---
+
+## Nona Aula: https://www.canva.com/design/DAGZF9XEVr8/5tPGPMGUuZbAo_I8q-z-FA/view?utm_content=DAGZF9XEVr8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbc5c32ed7b
+
 Vídeo 1: https://www.youtube.com/watch?v=6FJRmc7Ku_8&t=4s&ab_channel=InstitutoAyrtonSenna
 
 
