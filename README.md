@@ -74,17 +74,26 @@ Video 2: https://drive.google.com/file/d/1UkFiWg2g-BK6s-qo5qy5Y9MBMIM7t7eP/view?
 
 ---
 
-Dupla 1: https://www.revistas.usp.br/rto/article/view/62651
+## Décima Aula:
 
-Dupla 2: https://www.journalmbr.com.br/index.php/jmbr/article/view/378
+# Atividade: Fazer uma pesquisa abrangente sobre os temas sorteados.
 
-Dupla 3: https://pepsic.bvsalud.org/scielo.php?pid=S1808-56872017000200004&script=sci_arttext
+Requisitos: Pelo menos 20 slides, referenciar as fontes, responder as perguntas do seguinte documento:
 
-Dupla 4: http://educa.fcc.org.br/scielo.php?pid=S1517-97022011000200009&script=sci_abstract
+Documento: https://docs.google.com/document/d/19qjnVR9lre-OuMYNXlhdmvPSCgrGzCVXpYjO-Pyy2kw/edit?usp=sharing
 
-Dupla 5: https://revistaseletronicas.pucrs.br/porescrito/article/view/45151
+---
+Dupla 1: 
 
-Dupla 6: https://periodicorease.pro.br/rease/article/view/3368/1318
+Dupla 2:
+
+Dupla 3: 
+
+Dupla 4: 
+
+Dupla 5: 
+
+Dupla 6: 
 
 --
 # 💻Ordem das Apresentações Virtuais 
