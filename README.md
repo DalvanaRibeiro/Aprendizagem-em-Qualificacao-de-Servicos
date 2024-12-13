@@ -74,7 +74,11 @@ Video 2: https://drive.google.com/file/d/1UkFiWg2g-BK6s-qo5qy5Y9MBMIM7t7eP/view?
 
 ---
 
-## Décima Aula:
+## Décima Aula: https://www.canva.com/design/DAGZL_w-0Ok/Z_38SUsvJZU4NvI7Ku1Znw/view?utm_content=DAGZL_w-0Ok&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he2b02e9483
+
+# Como fazer apresentações: https://www.canva.com/design/DAGZL-2B4zc/kun6XCyV4pVIGzrPdgx0LQ/view?utm_content=DAGZL-2B4zc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf0a5ee54ed
+
+---
 
 # Atividade: Fazer uma pesquisa abrangente sobre os temas sorteados.
 
