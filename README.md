@@ -87,17 +87,17 @@ Requisitos: Pelo menos 20 slides, referenciar as fontes, responder as perguntas 
 Documento: https://docs.google.com/document/d/19qjnVR9lre-OuMYNXlhdmvPSCgrGzCVXpYjO-Pyy2kw/edit?usp=sharing
 
 ---
-Dupla 1: 
+Dupla 1 (Bruno e Felipe): A importância da Autoestima no Desenvolvimento Adolescente 
 
-Dupla 2:
+Dupla 2 (Rafaela e Laís): Bullying Virtual: Como lidar com o Cyberbullying
 
-Dupla 3: 
+Dupla 3 (Arthur e Daniel): Gestão de Conflitos e Habilidades de Comunicação 
 
-Dupla 4: 
+Dupla 4 (Rayssa e Heloiza): Bullyng e suas Consequências Emocionais 
 
-Dupla 5: 
+Dupla 5 (Paulo e Luís): Equilíbrio entre a Vida Acadêmica, Social e Pessoal 
 
-Dupla 6: 
+Dupla 6 (Davi): Inteligência Emocional e Sucesso Pessoal 
 
 --
 # 💻Ordem das Apresentações Virtuais 
