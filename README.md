@@ -95,9 +95,9 @@ Dupla 3 (Arthur e Daniel): Gestão de Conflitos e Habilidades de Comunicação
 
 Dupla 4 (Rayssa e Heloiza): Bullyng e suas Consequências Emocionais 
 
-Dupla 5 (Paulo e Luís): Equilíbrio entre a Vida Acadêmica, Social e Pessoal 
+Dupla 5 (Heitor e Luís): Equilíbrio entre a Vida Acadêmica, Social e Pessoal 
 
-Dupla 6 (Davi): Inteligência Emocional e Sucesso Pessoal 
+Dupla 6 (Davi e Paulo): Inteligência Emocional e Sucesso Pessoal 
 
 --
 # 💻Ordem das Apresentações Virtuais 
