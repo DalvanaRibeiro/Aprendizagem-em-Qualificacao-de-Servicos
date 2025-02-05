@@ -138,4 +138,7 @@ Dupla 6 (Davi e Paulo): Inteligência Emocional e Sucesso Pessoal
 ## Equipe Farmácia 2 (FARMALIFE): Rafaela, Laís e Heitor
 
 ## Equipe Material de Construções (BOB CONSTRUÇÕES): Rayssa, Arthur e Paulo
- 
+
+ # 📊 RECURSOS TECNOLÓGICOS
+ ## LibreOffice
+ https://www.canva.com/design/DAGeJD3wah0/Py1JNXO0OifR-yXFhbg7gw/view?utm_content=DAGeJD3wah0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h25315a096b
