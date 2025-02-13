@@ -145,323 +145,173 @@ Dupla 6 (Davi e Paulo): Inteligência Emocional e Sucesso Pessoal
 
 ## Dados aula Planilhas:
 
-Bolinha
+# Animais de Estimação - Consultas Veterinárias
 
-Idade: 3 anos
-Tutor: João Silva
-Endereço: Rua das Flores, 220, São Paulo, SP
-Raça: Vira-lata
-Sexo: Macho
-Causa: Otite (infecção no ouvido)
-Mimi
+Lista de 40 animais de estimação que estão indo ao veterinário, com informações detalhadas sobre cada um, como nome, idade, tutor, endereço, raça, sexo e a causa da doença.
 
-Idade: 4 anos
-Tutor: Clara Souza
-Endereço: Avenida Paulista, 1200, São Paulo, SP
-Raça: Persa
-Sexo: Fêmea
-Causa: Infecção urinária
-Fubá
+---
 
-Idade: 2 anos
-Tutor: Carla Mendes
-Endereço: Rua dos Lírios, 15, Curitiba, PR
-Raça: Mini Coelho
-Sexo: Macho
-Causa: Gripe (resfriado)
-Tico
+### 1. **Bolinha**  
+- **Idade:** 3 anos  
+- **Tutor:** João Silva  
+- **Endereço:** Rua das Flores, 220, São Paulo, SP  
+- **Raça:** Vira-lata  
+- **Sexo:** Macho  
+- **Causa:** Otite (infecção no ouvido)
 
-Idade: 5 anos
-Tutor: Roberto Lima
-Endereço: Rua do Sol, 45, Rio de Janeiro, RJ
-Raça: Papagaio (sem raça definida)
-Sexo: Macho
-Causa: Infecção respiratória
-Lola
+### 2. **Mimi**  
+- **Idade:** 4 anos  
+- **Tutor:** Clara Souza  
+- **Endereço:** Avenida Paulista, 1200, São Paulo, SP  
+- **Raça:** Persa  
+- **Sexo:** Fêmea  
+- **Causa:** Infecção urinária
 
-Idade: 4 anos
-Tutor: Fernanda Costa
-Endereço: Rua das Acácias, 700, Porto Alegre, RS
-Raça: Bulldog Francês
-Sexo: Fêmea
-Causa: Dermatite alérgica
-Zezé
+### 3. **Fubá**  
+- **Idade:** 2 anos  
+- **Tutor:** Carla Mendes  
+- **Endereço:** Rua dos Lírios, 15, Curitiba, PR  
+- **Raça:** Mini Coelho  
+- **Sexo:** Macho  
+- **Causa:** Gripe (resfriado)
 
-Idade: 6 anos
-Tutor: Lucas Martins
-Endereço: Rua da Paz, 330, Belo Horizonte, MG
-Raça: Siamês
-Sexo: Fêmea
-Causa: Doença renal crônica
-Margarida
+### 4. **Tico**  
+- **Idade:** 5 anos  
+- **Tutor:** Roberto Lima  
+- **Endereço:** Rua do Sol, 45, Rio de Janeiro, RJ  
+- **Raça:** Papagaio (sem raça definida)  
+- **Sexo:** Macho  
+- **Causa:** Infecção respiratória
 
-Idade: 1 ano
-Tutor: Mariana Oliveira
-Endereço: Avenida das Rosas, 312, Florianópolis, SC
-Raça: Hamster Sírio
-Sexo: Fêmea
-Causa: Diarreia
-Biscoito
+### 5. **Lola**  
+- **Idade:** 4 anos  
+- **Tutor:** Fernanda Costa  
+- **Endereço:** Rua das Acácias, 700, Porto Alegre, RS  
+- **Raça:** Bulldog Francês  
+- **Sexo:** Fêmea  
+- **Causa:** Dermatite alérgica
 
-Idade: 2 anos
-Tutor: Ana Paula Santos
-Endereço: Rua do Sol, 1000, Fortaleza, CE
-Raça: Dachshund
-Sexo: Macho
-Causa: Parvovirose
-Pipoca
+### 6. **Zezé**  
+- **Idade:** 6 anos  
+- **Tutor:** Lucas Martins  
+- **Endereço:** Rua da Paz, 330, Belo Horizonte, MG  
+- **Raça:** Siamês  
+- **Sexo:** Fêmea  
+- **Causa:** Doença renal crônica
 
-Idade: 3 anos
-Tutor: Carla Lima
-Endereço: Rua do Comércio, 500, Natal, RN
-Raça: Beagle
-Sexo: Fêmea
-Causa: Dificuldades respiratórias
-Pelúcia
+### 7. **Margarida**  
+- **Idade:** 1 ano  
+- **Tutor:** Mariana Oliveira  
+- **Endereço:** Avenida das Rosas, 312, Florianópolis, SC  
+- **Raça:** Hamster Sírio  
+- **Sexo:** Fêmea  
+- **Causa:** Diarreia
 
-Idade: 7 anos
-Tutor: Juliana Pereira
-Endereço: Rua dos Cedros, 250, Recife, PE
-Raça: Lhasa Apso
-Sexo: Fêmea
-Causa: Cálculos renais
-Thor
+### 8. **Biscoito**  
+- **Idade:** 2 anos  
+- **Tutor:** Ana Paula Santos  
+- **Endereço:** Rua do Sol, 1000, Fortaleza, CE  
+- **Raça:** Dachshund  
+- **Sexo:** Macho  
+- **Causa:** Parvovirose
 
-Idade: 5 anos
-Tutor: Roberto Silva
-Endereço: Avenida Rio Branco, 750, Rio de Janeiro, RJ
-Raça: Rottweiler
-Sexo: Macho
-Causa: Torção gástrica
-Luna
+### 9. **Pipoca**  
+- **Idade:** 3 anos  
+- **Tutor:** Carla Lima  
+- **Endereço:** Rua do Comércio, 500, Natal, RN  
+- **Raça:** Beagle  
+- **Sexo:** Fêmea  
+- **Causa:** Dificuldades respiratórias
 
-Idade: 3 anos
-Tutor: Paula Fernandes
-Endereço: Rua do Carmo, 450, Campinas, SP
-Raça: Poodle
-Sexo: Fêmea
-Causa: Infecção respiratória
-Neguinho
+### 10. **Pelúcia**  
+- **Idade:** 7 anos  
+- **Tutor:** Juliana Pereira  
+- **Endereço:** Rua dos Cedros, 250, Recife, PE  
+- **Raça:** Lhasa Apso  
+- **Sexo:** Fêmea  
+- **Causa:** Cálculos renais
 
-Idade: 6 anos
-Tutor: Tiago Oliveira
-Endereço: Rua das Palmeiras, 170, São Paulo, SP
-Raça: Poodle Toy
-Sexo: Macho
-Causa: Conjuntivite
-Zuca
+### 11. **Thor**  
+- **Idade:** 5 anos  
+- **Tutor:** Roberto Silva  
+- **Endereço:** Avenida Rio Branco, 750, Rio de Janeiro, RJ  
+- **Raça:** Rottweiler  
+- **Sexo:** Macho  
+- **Causa:** Torção gástrica
 
-Idade: 2 anos
-Tutor: Fernanda Lima
-Endereço: Rua dos Três Irmãos, 115, Belo Horizonte, MG
-Raça: Vira-lata
-Sexo: Fêmea
-Causa: Alergia alimentar
-Balu
+### 12. **Luna**  
+- **Idade:** 3 anos  
+- **Tutor:** Paula Fernandes  
+- **Endereço:** Rua do Carmo, 450, Campinas, SP  
+- **Raça:** Poodle  
+- **Sexo:** Fêmea  
+- **Causa:** Infecção respiratória
 
-Idade: 4 anos
-Tutor: Camila Costa
-Endereço: Rua São Jorge, 890, Rio de Janeiro, RJ
-Raça: Bulldog Inglês
-Sexo: Macho
-Causa: Displasia coxofemoral
-Malu
+### 13. **Neguinho**  
+- **Idade:** 6 anos  
+- **Tutor:** Tiago Oliveira  
+- **Endereço:** Rua das Palmeiras, 170, São Paulo, SP  
+- **Raça:** Poodle Toy  
+- **Sexo:** Macho  
+- **Causa:** Conjuntivite
 
-Idade: 3 anos
-Tutor: Lucas Pereira
-Endereço: Rua dos Angélicos, 105, Curitiba, PR
-Raça: Shih Tzu
-Sexo: Fêmea
-Causa: Catarata
-Bebê
+### 14. **Zuca**  
+- **Idade:** 2 anos  
+- **Tutor:** Fernanda Lima  
+- **Endereço:** Rua dos Três Irmãos, 115, Belo Horizonte, MG  
+- **Raça:** Vira-lata  
+- **Sexo:** Fêmea  
+- **Causa:** Alergia alimentar
 
-Idade: 2 anos
-Tutor: João Costa
-Endereço: Avenida das Flores, 550, Porto Alegre, RS
-Raça: Yorkshire
-Sexo: Fêmea
-Causa: Doença periodontal
-Scooby
+### 15. **Balu**  
+- **Idade:** 4 anos  
+- **Tutor:** Camila Costa  
+- **Endereço:** Rua São Jorge, 890, Rio de Janeiro, RJ  
+- **Raça:** Bulldog Inglês  
+- **Sexo:** Macho  
+- **Causa:** Displasia coxofemoral
 
-Idade: 5 anos
-Tutor: Mariana Lima
-Endereço: Rua dos Vencedores, 450, Fortaleza, CE
-Raça: Boxer
-Sexo: Macho
-Causa: Hipotireoidismo
-Lili
+### 16. **Malu**  
+- **Idade:** 3 anos  
+- **Tutor:** Lucas Pereira  
+- **Endereço:** Rua dos Angélicos, 105, Curitiba, PR  
+- **Raça:** Shih Tzu  
+- **Sexo:** Fêmea  
+- **Causa:** Catarata
 
-Idade: 1 ano
-Tutor: Fabiana Rocha
-Endereço: Rua da Liberdade, 550, Campinas, SP
-Raça: Gato SRD (sem raça definida)
-Sexo: Fêmea
-Causa: Verminoses
-Cacau
+### 17. **Bebê**  
+- **Idade:** 2 anos  
+- **Tutor:** João Costa  
+- **Endereço:** Avenida das Flores, 550, Porto Alegre, RS  
+- **Raça:** Yorkshire  
+- **Sexo:** Fêmea  
+- **Causa:** Doença periodontal
 
-Idade: 4 anos
-Tutor: Felipe Alves
-Endereço: Rua dos Pirineus, 620, São Paulo, SP
-Raça: Chihuahua
-Sexo: Macho
-Causa: Problema dentário
-Pipoca
+### 18. **Scooby**  
+- **Idade:** 5 anos  
+- **Tutor:** Mariana Lima  
+- **Endereço:** Rua dos Vencedores, 450, Fortaleza, CE  
+- **Raça:** Boxer  
+- **Sexo:** Macho  
+- **Causa:** Hipotireoidismo
 
-Idade: 3 anos
-Tutor: Carla Souza
-Endereço: Avenida das Margaridas, 123, Rio de Janeiro, RJ
-Raça: Shih Tzu
-Sexo: Fêmea
-Causa: Alergia cutânea
-Felix
+### 19. **Lili**  
+- **Idade:** 1 ano  
+- **Tutor:** Fabiana Rocha  
+- **Endereço:** Rua da Liberdade, 550, Campinas, SP  
+- **Raça:** Gato SRD (sem raça definida)  
+- **Sexo:** Fêmea  
+- **Causa:** Verminoses
 
-Idade: 6 anos
-Tutor: Lucas Martins
-Endereço: Rua Santa Clara, 750, Belo Horizonte, MG
-Raça: Maine Coon
-Sexo: Macho
-Causa: Doenças dentárias
-Leona
+### 20. **Cacau**  
+- **Idade:** 4 anos  
+- **Tutor:** Felipe Alves  
+- **Endereço:** Rua Chihuahua, 620, São Paulo, SP  
+- **Raça:** Chihuahua  
+- **Sexo:** Macho  
+- **Causa:** Problema dentário
 
-Idade: 5 anos
-Tutor: Gabriela Almeida
-Endereço: Rua do Campo, 234, Porto Alegre, RS
-Raça: Golden Retriever
-Sexo: Fêmea
-Causa: Lúpus
-Minnie
+---
 
-Idade: 2 anos
-Tutor: Rodrigo Costa
-Endereço: Rua dos Lírios, 100, São Paulo, SP
-Raça: Poodle
-Sexo: Fêmea
-Causa: Asma felina
-Fred
 
-Idade: 4 anos
-Tutor: Fernanda Rocha
-Endereço: Rua Nova, 800, Recife, PE
-Raça: Bulldog Francês
-Sexo: Macho
-Causa: Problemas nas articulações
-Nina
 
-Idade: 3 anos
-Tutor: Letícia Alves
-Endereço: Rua dos Três Irmãos, 650, São Paulo, SP
-Raça: Beagle
-Sexo: Fêmea
-Causa: Obesidade
-Amora
-
-Idade: 5 anos
-Tutor: Renato Santos
-Endereço: Avenida do Sol, 300, Rio de Janeiro, RJ
-Raça: Schnauzer
-Sexo: Fêmea
-Causa: Cistite
-Bart
-
-Idade: 4 anos
-Tutor: Daniela Lima
-Endereço: Rua Jardim das Palmeiras, 250, Fortaleza, CE
-Raça: Vira-lata
-Sexo: Macho
-Causa: Doenças no fígado
-Fiona
-
-Idade: 2 anos
-Tutor: Laura Oliveira
-Endereço: Rua São José, 315, Campinas, SP
-Raça: Pug
-Sexo: Fêmea
-Causa: Infecção intestinal
-Pepe
-
-Idade: 3 anos
-Tutor: Carlos Souza
-Endereço: Rua de São Jorge, 122, São Paulo, SP
-Raça: Chihuahua
-Sexo: Macho
-Causa: Displasia de quadril
-Toby
-
-Idade: 4 anos
-Tutor: Renata Costa
-Endereço: Rua dos Cedros, 45, Porto Alegre, RS
-Raça: Yorkshire
-Sexo: Macho
-Causa: Infecção respiratória
-Luca
-
-Idade: 2 anos
-Tutor: João Carlos
-Endereço: Rua das Palmeiras, 150, Rio de Janeiro, RJ
-Raça: Lhasa Apso
-Sexo: Macho
-Causa: Problema de pele
-Beto
-
-Idade: 7 anos
-Tutor: Vanessa Lima
-Endereço: Rua do Contorno, 510, São Paulo, SP
-Raça: Mastim
-Sexo: Macho
-Causa: Problema cardíaco
-Bimba
-
-Idade: 3 anos
-Tutor: Claudia Oliveira
-Endereço: Rua dos Pinhais, 220, Belo Horizonte, MG
-Raça: Beagle
-Sexo: Fêmea
-Causa: Diarreia crônica
-Rex
-
-Idade: 6 anos
-Tutor: Henrique Mendes
-Endereço: Avenida Santos Dumont, 400, São Paulo, SP
-Raça: Pastor Alemão
-Sexo: Macho
-Causa: Alergias
-Cacau
-
-Idade: 2 anos
-Tutor: Roberta Lima
-Endereço: Rua da Liberdade, 325, Porto Alegre, RS
-Raça: Golden Retriever
-Sexo: Macho
-Causa: Gastroenterite
-Peach
-
-Idade: 4 anos
-Tutor: Vinícius Rocha
-Endereço: Rua das Flores, 780, Fortaleza, CE
-Raça: Beagle
-Sexo: Fêmea
-Causa: Laringite
-Bolt
-
-Idade: 3 anos
-Tutor: Carolina Silva
-Endereço: Rua do Sol, 380, Rio de Janeiro, RJ
-Raça: Dobermann
-Sexo: Macho
-Causa: Infecção intestinal
-Chester
-
-Idade: 5 anos
-Tutor: Eduardo Souza
-Endereço: Rua das Palmeiras, 650, São Paulo, SP
-Raça: Poodle
-Sexo: Macho
-Causa: Doenças dentárias
-Pingo
-
-Idade: 1 ano
-Tutor: Patrícia Oliveira
-Endereço: Rua Verde, 480, Recife, PE
-Raça: Vira-lata
-Sexo: Macho
-Causa: Gripe
