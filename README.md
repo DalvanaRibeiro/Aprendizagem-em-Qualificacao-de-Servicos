@@ -147,6 +147,11 @@ Dupla 6 (Davi e Paulo): Inteligência Emocional e Sucesso Pessoal
 
 # Animais de Estimação - Consultas Veterinárias
 
+Lista de animais de estimação que estão indo ao veterinário, com informações detalhadas sobre cada um, como nome, idade, tutor, endereço, raça, sexo e a causa da doença.
+
+---
+# Animais de Estimação - Consultas Veterinárias
+
 Lista de 40 animais de estimação que estão indo ao veterinário, com informações detalhadas sobre cada um, como nome, idade, tutor, endereço, raça, sexo e a causa da doença.
 
 ---
@@ -312,6 +317,168 @@ Lista de 40 animais de estimação que estão indo ao veterinário, com informa�
 - **Causa:** Problema dentário
 
 ---
+
+### 21. **Pipoca**  
+- **Idade:** 3 anos  
+- **Tutor:** Carla Souza  
+- **Endereço:** Avenida das Margaridas, 123, Rio de Janeiro, RJ  
+- **Raça:** Shih Tzu  
+- **Sexo:** Fêmea  
+- **Causa:** Alergia cutânea
+
+### 22. **Felix**  
+- **Idade:** 6 anos  
+- **Tutor:** Lucas Martins  
+- **Endereço:** Rua Santa Clara, 750, Belo Horizonte, MG  
+- **Raça:** Maine Coon  
+- **Sexo:** Macho  
+- **Causa:** Doenças dentárias
+
+### 23. **Leona**  
+- **Idade:** 5 anos  
+- **Tutor:** Gabriela Almeida  
+- **Endereço:** Rua do Campo, 234, Porto Alegre, RS  
+- **Raça:** Golden Retriever  
+- **Sexo:** Fêmea  
+- **Causa:** Lúpus
+
+### 24. **Minnie**  
+- **Idade:** 2 anos  
+- **Tutor:** Rodrigo Costa  
+- **Endereço:** Rua dos Lírios, 100, São Paulo, SP  
+- **Raça:** Poodle  
+- **Sexo:** Fêmea  
+- **Causa:** Asma felina
+
+### 25. **Fred**  
+- **Idade:** 4 anos  
+- **Tutor:** Fernanda Rocha  
+- **Endereço:** Rua Jardim das Palmeiras, 250, Fortaleza, CE  
+- **Raça:** Bulldog Francês  
+- **Sexo:** Macho  
+- **Causa:** Problemas nas articulações
+
+### 26. **Nina**  
+- **Idade:** 3 anos  
+- **Tutor:** Letícia Alves  
+- **Endereço:** Rua dos Três Irmãos, 650, São Paulo, SP  
+- **Raça:** Beagle  
+- **Sexo:** Fêmea  
+- **Causa:** Obesidade
+
+### 27. **Amora**  
+- **Idade:** 5 anos  
+- **Tutor:** Renato Santos  
+- **Endereço:** Avenida do Sol, 300, Rio de Janeiro, RJ  
+- **Raça:** Schnauzer  
+- **Sexo:** Fêmea  
+- **Causa:** Cistite
+
+### 28. **Bart**  
+- **Idade:** 4 anos  
+- **Tutor:** Daniela Lima  
+- **Endereço:** Rua Jardim das Palmeiras, 250, Fortaleza, CE  
+- **Raça:** Vira-lata  
+- **Sexo:** Macho  
+- **Causa:** Doenças no fígado
+
+### 29. **Fiona**  
+- **Idade:** 2 anos  
+- **Tutor:** Laura Oliveira  
+- **Endereço:** Rua São José, 315, Campinas, SP  
+- **Raça:** Pug  
+- **Sexo:** Fêmea  
+- **Causa:** Infecção intestinal
+
+### 30. **Chuck**  
+- **Idade:** 3 anos  
+- **Tutor:** João Pedro Alves  
+- **Endereço:** Rua das Flores, 1000, São Paulo, SP  
+- **Raça:** Bulldog  
+- **Sexo:** Macho  
+- **Causa:** Doenças respiratórias
+
+### 31. **Duda**  
+- **Idade:** 6 anos  
+- **Tutor:** Fabiana Costa  
+- **Endereço:** Rua das Acácias, 370, Porto Alegre, RS  
+- **Raça:** Cocker Spaniel  
+- **Sexo:** Fêmea  
+- **Causa:** Dores articulares
+
+### 32. **Nino**  
+- **Idade:** 1 ano  
+- **Tutor:** Felipe Rocha  
+- **Endereço:** Rua São João, 500, Fortaleza, CE  
+- **Raça:** Bulldog Inglês  
+- **Sexo:** Macho  
+- **Causa:** Raiva
+
+### 33. **Olga**  
+- **Idade:** 5 anos  
+- **Tutor:** Vanessa Lima  
+- **Endereço:** Rua dos Cedros, 150, Curitiba, PR  
+- **Raça:** Poodle  
+- **Sexo:** Fêmea  
+- **Causa:** Insuficiência renal
+
+### 34. **Rex**  
+- **Idade:** 4 anos  
+- **Tutor:** Gustavo Martins  
+- **Endereço:** Rua do Sol, 900, Rio de Janeiro, RJ  
+- **Raça:** Pastor Alemão  
+- **Sexo:** Macho  
+- **Causa:** Doença do coração
+
+### 35. **Ciel**  
+- **Idade:** 7 anos  
+- **Tutor:** Leonardo Pereira  
+- **Endereço:** Rua das Palmeiras, 500, São Paulo, SP  
+- **Raça:** Lhasa Apso  
+- **Sexo:** Fêmea  
+- **Causa:** Otite crônica
+
+### 36. **Rafa**  
+- **Idade:** 3 anos  
+- **Tutor:** Sofia Santos  
+- **Endereço:** Avenida dos Três Irmãos, 700, Campinas, SP  
+- **Raça:** Boxer  
+- **Sexo:** Fêmea  
+- **Causa:** Alergia cutânea
+
+### 37. **Kiko**  
+- **Idade:** 2 anos  
+- **Tutor:** Luiz Oliveira  
+- **Endereço:** Rua do Sol, 800, Recife, PE  
+- **Raça:** Yorkshire  
+- **Sexo:** Macho  
+- **Causa:** Infecção digestiva
+
+### 38. **Bebê**  
+- **Idade:** 3 anos  
+- **Tutor:** Rita Lima  
+- **Endereço:** Rua das Flores, 750, Rio de Janeiro, RJ  
+- **Raça:** Poodle  
+- **Sexo:** Fêmea  
+- **Causa:** Colapso traqueal
+
+### 39. **Toby**  
+- **Idade:** 4 anos  
+- **Tutor:** Paula Souza  
+- **Endereço:** Rua do Sol, 600, Belo Horizonte, MG  
+- **Raça:** Beagle  
+- **Sexo:** Macho  
+- **Causa:** Doenças respiratórias
+
+### 40. **Bella**  
+- **Idade:** 6 anos  
+- **Tutor:** Daniel Costa  
+- **Endereço:** Rua das Acácias, 400, São Paulo, SP  
+- **Raça:** Bulldog Francês  
+- **Sexo:** Fêmea  
+- **Causa:** Gripe canina
+
+
 
 
 
