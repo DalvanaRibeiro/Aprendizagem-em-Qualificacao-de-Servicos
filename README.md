@@ -480,6 +480,10 @@ Lista de 40 animais de estimação que estão indo ao veterinário, com informa�
 
 # Exercício 17/02
 
+
+https://docs.google.com/spreadsheets/d/1kOxcQJ_16rWWx-N1K01HLCEB8z7GvZh2/edit?usp=sharing&ouid=117323909658526652434&rtpof=true&sd=true
+
+
 Exercício de Limpeza de Dados em Planilha de Supermercado
 
 https://docs.google.com/spreadsheets/d/1LNiJ5iuYKuP9kvv_M-59WLg0PSnx8osw/edit?usp=sharing&ouid=117323909658526652434&rtpof=true&sd=true
