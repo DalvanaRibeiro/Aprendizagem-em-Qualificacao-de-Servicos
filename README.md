@@ -478,7 +478,42 @@ Lista de 40 animais de estimação que estão indo ao veterinário, com informa�
 - **Sexo:** Fêmea  
 - **Causa:** Gripe canina
 
+# Exercício 17/02
 
+Exercício de Limpeza de Dados em Planilha de Supermercado
+
+https://docs.google.com/spreadsheets/d/1LNiJ5iuYKuP9kvv_M-59WLg0PSnx8osw/edit?usp=sharing&ouid=117323909658526652434&rtpof=true&sd=true
+
+Objetivo: Neste exercício, você trabalhará com uma planilha contendo dados "sujos" de compras de supermercado. O objetivo é realizar a limpeza desses dados, corrigindo inconsistências e padronizando as informações para que a planilha esteja pronta para análise e tomada de decisões.
+
+Passos para Realizar o Exercício:
+Correção de Nomes de Produtos:
+
+Uniformize a capitalização dos nomes dos produtos (exemplo: "Papel alumínio" deve ser corrigido para "Papel Alumínio").
+Corrija possíveis erros de digitação e use o nome correto para cada produto.
+Padronização das Quantidades:
+
+Certifique-se de que todas as quantidades estejam em formato numérico, quando possível (exemplo: "3 rolos" deve ser transformado em "3").
+Corrija as quantidades que estão em palavras (exemplo: "Dois" deve ser alterado para "2").
+Ajuste de Preços Unitários:
+
+Verifique se todos os preços estão com a pontuação correta, utilizando ponto (".") para separar as casas decimais (exemplo: "R$ 4,00" deve ser ajustado para "4.00").
+Remova qualquer símbolo ou texto desnecessário nos preços (exemplo: "R$ 5,50" deve se tornar "5.50").
+Remoção de Espaços e Linhas Vazias:
+
+Remova qualquer espaço extra antes ou depois dos valores nas colunas.
+Apague ou preencha as células vazias que estiverem na planilha (se necessário, complete com "N/A" ou valores plausíveis).
+Verificação de Unidades de Medida:
+
+Garanta que as unidades de medida estejam consistentes (exemplo: kg, g, pacote, unidade, etc.).
+Se houver unidades incompatíveis, padronize (exemplo: "1kg" deve ser corrigido para "1 kg").
+Resumos e Análises:
+
+Após limpar os dados, calcule a quantidade total de produtos e o valor total de cada produto (Quantidade x Preço Unitário).
+Crie uma coluna de valor total para cada produto e, em seguida, uma coluna de total geral no final.
+Entrega:
+Após realizar as correções, salve a planilha limpa e envie para o instrutor.
+Escreva um breve relatório explicando as principais correções que você fez e como os dados foram ajustados para garantir a consistência.
 
 
 
