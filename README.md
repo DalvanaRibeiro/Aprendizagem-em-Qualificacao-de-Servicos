@@ -520,4 +520,13 @@ Após realizar as correções, salve a planilha limpa e envie para o instrutor.
 Escreva um breve relatório explicando as principais correções que você fez e como os dados foram ajustados para garantir a consistência.
 
 
+# TRABALHO AVALIATIVO - 18/02
+
+## Dados:
+https://docs.google.com/spreadsheets/d/1K67X_wcqp2klP2tRjJG1fXHL3MXjdS3q/edit?usp=sharing&ouid=117323909658526652434&rtpof=true&sd=true
+
+## Enunciado:
+
+https://drive.google.com/file/d/1hQgCP-Jc-x5gtP_KMXW2sf-xzVt3igNn/view?usp=sharing
+
 
