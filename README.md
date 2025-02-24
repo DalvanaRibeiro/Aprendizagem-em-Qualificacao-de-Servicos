@@ -548,28 +548,51 @@ Perguntas:
 Quais são os principais benefícios da internet mencionados no texto?
 
 Quais os riscos associados à disseminação de informações pela internet, de acordo com o texto?
+
 Como a educação foi transformada pelas novas tecnologias?
+
 O que são "fake news" e como elas afetam a sociedade, segundo o texto?
+
 Quais são os impactos da inteligência artificial no mercado de trabalho, conforme descrito?
+
 Como a automação e a robotização estão relacionadas à insegurança no mercado de trabalho?
+
 O que o texto diz sobre o impacto da globalização nas culturas locais?
+
 Quais são as consequências da homogeneização cultural causada pela globalização?
+
 Quais são os aspectos positivos da globalização mencionados no texto?
+
 De que maneira a colaboração entre países pode contribuir para resolver problemas globais, como a pandemia?
+
 Como o ritmo acelerado da sociedade moderna afeta a vida cotidiana das pessoas?
+
 Quais problemas emocionais estão associados ao ritmo de vida descrito no texto?
+
 O que o texto afirma sobre a pressão das redes sociais sobre as pessoas?
+
 Como as redes sociais contribuem para a sensação de inadequação e comparação?
+
 Qual é a necessidade central que surge em meio a tantas transformações, segundo o texto?
+
 O que significa "equilíbrio" no contexto do texto?
+
 Como as pessoas podem lidar com a velocidade das mudanças no mundo moderno, segundo o autor?
+
 O que o texto sugere sobre o uso consciente da tecnologia?
+
 Como as empresas e os governos devem agir para garantir um desenvolvimento sustentável, de acordo com o texto?
+
 O que significa "desenvolvimento sustentável e humanizado" no contexto do texto?
+
 Qual a importância da colaboração para que as inovações tecnológicas beneficiem a sociedade?
+
 O que o autor sugere sobre a relação entre as mudanças tecnológicas e os valores pessoais?
+
 O que é considerado essencial para que as transformações tecnológicas tragam benefícios reais para a sociedade?
+
 Quais são as implicações do estresse e da ansiedade no contexto da sociedade moderna?
+
 Como a transformação digital pode afetar negativamente a identidade cultural local?
 
 
