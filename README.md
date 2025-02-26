@@ -595,4 +595,6 @@ Quais são as implicações do estresse e da ansiedade no contexto da sociedade 
 
 Como a transformação digital pode afetar negativamente a identidade cultural local?
 
+# ATIVIDADE ECA
 
+https://www.canva.com/design/DAGgH5oUHJI/7bO4qffnwCj34wyEeCidcg/edit?utm_content=DAGgH5oUHJI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
